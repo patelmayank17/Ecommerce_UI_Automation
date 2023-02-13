@@ -1,2 +1,2 @@
 # Ecommerce_UI_Automation
-Used Selenium with Java, TestNG framework
+Website Testing using Selenium, Java, TestNG, Eclipse IDE
