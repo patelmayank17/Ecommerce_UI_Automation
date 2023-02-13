@@ -1,2 +1,3 @@
-# Ecommerce_UI_Automation
-Website Testing using Selenium, Java, TestNG, Eclipse IDE
+# Amazon Ecommerce_UI_Automation
+
+Amazon Website Testing using Selenium, Java, TestNG, Eclipse IDE
